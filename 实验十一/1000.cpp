@@ -54,7 +54,7 @@ int main() {
 		}
 		cout << endl;
 	}
-	cout << "  ";
+	cout << "   ";
 	for (int i = 0; i < n; i++)
 		cout << "  " << vn[i];
 	cout << endl << "  f";
